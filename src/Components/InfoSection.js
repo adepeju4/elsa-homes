@@ -29,6 +29,7 @@ line-height: 1.4;
 padding: 1rem 2rem;
 order: ${({ reverse }) => (reverse ? '2' : '1')};
 
+
 h1{
     margin-bottom: 1rem;
     font-size: clamp(1.5rem, 6vw, 2rem);
