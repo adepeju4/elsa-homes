@@ -10,7 +10,6 @@ ReactDOM.render(
     <Router>
       <Switch>
         <Route>
-
     <App exact path='/'/>
         </Route>
 </Switch>
